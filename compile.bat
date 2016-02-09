@@ -1,0 +1,1 @@
+sass D:\sandbox\workspace\tectes\basic-sass-project\_sass\main.scss:D:\sandbox\workspace\tectes\sass-css-output\out.css --style compressed
